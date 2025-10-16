@@ -1,24 +1,4 @@
-<div align="center">
-<h1><img width="30" src="https://madewithml.com/static/images/rounded_logo.png">&nbsp;<a href="https://madewithml.com/">Made With ML</a></h1>
-Design · Develop · Deploy · Iterate
-<br>
-Join 40K+ developers in learning how to responsibly deliver value with ML.
-    <br>
-</div>
 
-<br>
-
-<div align="center">
-    <a target="_blank" href="https://madewithml.com/"><img src="https://img.shields.io/badge/Subscribe-40K-brightgreen"></a>&nbsp;
-    <a target="_blank" href="https://github.com/GokuMohandas/Made-With-ML"><img src="https://img.shields.io/github/stars/GokuMohandas/Made-With-ML.svg?style=social&label=Star"></a>&nbsp;
-    <a target="_blank" href="https://www.linkedin.com/in/goku"><img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"></a>&nbsp;
-    <a target="_blank" href="https://twitter.com/GokuMohandas"><img src="https://img.shields.io/twitter/follow/GokuMohandas.svg?label=Follow&style=social"></a>
-    <br>
-    🔥&nbsp; Among the <a href="https://github.com/GokuMohandas/Made-With-ML" target="_blank">top ML repositories</a> on GitHub
-</div>
-
-<br>
-<hr>
 
 ## Lessons
 
